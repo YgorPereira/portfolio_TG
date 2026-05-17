@@ -1,5 +1,17 @@
 # Portfólio - Ygor Pereira
 
+<div align="center">
+
+<img 
+  src="./public/img/profile_pic.jpg" 
+  width="300"
+  style="border-radius: 50%;"
+/>
+
+</div>
+
+<br>
+
 Olá! Eu sou Ygor Ruan Pereira, tenho 20 anos, sou de São José dos Campos - SP e atualmente atuo como Desenvolvedor Fullstack Júnior na Autaza. Também sou estudante de ADS (Análise e Desenvolvimento de Sistemas) na FATEC São José dos Campos.
 
 ---
@@ -299,6 +311,14 @@ A aplicação possibilita o cadastro, consulta, edição e exclusão das informa
 
 ## Demonstração e GitHub
 
+<div align="center">
+
+<video src="./public/videos/doceye_demo.mp4" controls width="800"></video>
+
+</div>
+
+<br>
+
 **Veja mais no repositório do GitHub:**  
 [DocEye](https://github.com/CodeDontBlow/DocEye)
 
@@ -413,6 +433,14 @@ Além disso, o sistema disponibiliza dashboards interativos, filtros por períod
 ---
 
 ## Demonstração e GitHub
+
+<div align="center">
+
+<video src="./public/videos/pontolog_demo.mp4" controls width="800"></video>
+
+</div>
+
+<br>
 
 **Veja mais no repositório do GitHub:**  
 [PontoLog](https://github.com/CodeDontBlow/PontoLog)
@@ -540,6 +568,15 @@ A aplicação também auxilia na validação de classificações fiscais, organi
 ---
 
 ## Demonstração e GitHub
+
+<div align="center">
+
+<video src="./public/videos/descriptum_demo.mp4" controls width="800"></video>
+
+</div>
+
+<br>
+
 
 **Veja mais no repositório do GitHub:**  
 [Descriptum](https://github.com/CodeDontBlow/Tecsys-Descriptum/)
