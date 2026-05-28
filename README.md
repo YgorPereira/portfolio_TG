@@ -193,11 +193,17 @@ O gestor do sistema também podia acompanhar o progresso e desempenho dos funcio
 
 ## Soft Skills
 
-- **Foco no Usuário:** Desenvolvimento de funcionalidades voltadas para oferecer uma experiência agradável, intuitiva e funcional ao usuário.
-- **Planejamento:** Organização e divisão de atividades relacionadas ao desenvolvimento das funcionalidades da plataforma.
-- **Trabalho em Equipe:** Colaboração com os membros da equipe, distribuindo tarefas com base nas habilidades e objetivos de aprendizado de cada integrante.
-- **Senso de Urgência e Prioridade:** Desenvolvimento da capacidade de priorizar tarefas e entregas conforme a necessidade do projeto e do cliente.
-- **Comunicação:** Participação em reuniões de alinhamento para acompanhamento do desenvolvimento e definição de atividades e escopos.
+- **Foco no Usuário:** Ajustei elementos visuais, navegação e funcionamento dos jogos educacionais para tornar o aprendizado mais intuitivo para usuários que não possuíam conhecimento prévio sobre Scrum.
+
+- **Trabalho em Equipe:** Atuei em conjunto com outros integrantes na correção de funcionalidades e divisão das entregas da sprint, conciliando necessidades técnicas e objetivos de aprendizado da equipe.
+
+- **Adaptabilidade:** Reestruturei scripts e mecânicas dos jogos após mudanças de requisitos definidas durante o desenvolvimento do projeto.
+
+- **Comunicação:** Participei de reuniões de alinhamento para discutir problemas nas funcionalidades, acompanhar o andamento das tarefas e validar melhorias na interface da plataforma.
+
+- **Organização:** Mantive a estrutura das páginas e componentes da interface padronizada para facilitar manutenção e continuidade do desenvolvimento.
+
+- **Resolução de Problemas:** Corrigi falhas nos scripts responsáveis pelos jogos interativos e ajustes de navegação entre páginas da aplicação.
 
 ## Demonstração e GitHub:
 
@@ -301,11 +307,17 @@ A aplicação possibilita o cadastro, consulta, edição e exclusão das informa
 
 ## Soft Skills
 
-- **Análise de Problemas:** Participação na definição do escopo e entendimento das necessidades do produto.
-- **Organização:** Estruturação do fluxo de desenvolvimento utilizando Git Flow.
-- **Trabalho em Equipe:** Colaboração com os integrantes no desenvolvimento das funcionalidades do sistema.
-- **Comunicação:** Participação em alinhamentos técnicos e definição de requisitos do projeto.
-- **Planejamento:** Apoio na definição de funcionalidades e priorização de entregas durante as sprints.
+- **Análise de Problemas:** Participei da definição da solução para automatizar a leitura de currículos, analisando limitações da extração manual e dificuldades relacionadas a diferentes layouts de documentos.
+
+- **Organização:** Estruturei o fluxo de versionamento utilizando Git Flow, separando corretamente branches de desenvolvimento, homologação e entrega para reduzir conflitos entre funcionalidades.
+
+- **Comunicação Técnica:** Participei de discussões sobre integração do OCR e definição das tecnologias utilizadas no sistema, alinhando necessidades técnicas entre os integrantes.
+
+- **Trabalho em Equipe:** Colaborei com a equipe na integração das funcionalidades relacionadas à leitura e processamento dos documentos extraídos.
+
+- **Planejamento:** Auxiliei na priorização das tarefas técnicas durante as sprints, considerando dependências entre funcionalidades do sistema.
+
+- **Aprendizado Contínuo:** Busquei entender e aplicar conceitos de OCR e inteligência artificial para contribuir na implementação da leitura automatizada de documentos.
 
 ---
 
@@ -423,12 +435,17 @@ Além disso, o sistema disponibiliza dashboards interativos, filtros por períod
 
 ## Soft Skills
 
-- **Organização:** Estruturação do fluxo visual e navegação da plataforma.
-- **Criatividade:** Desenvolvimento da identidade visual e padronização da interface.
-- **Trabalho em Equipe:** Colaboração contínua com os integrantes no desenvolvimento das funcionalidades.
-- **Comunicação:** Participação em alinhamentos técnicos e discussões sobre melhorias da aplicação.
-- **Resolução de Problemas:** Correção de bugs e ajustes gerais no sistema.
-- **Planejamento:** Participação na definição de funcionalidades e melhorias da experiência do usuário.
+- **Criatividade:** Desenvolvi a identidade visual do sistema e organizei os dashboards para facilitar a visualização e interpretação dos dados logísticos apresentados na plataforma.
+
+- **Trabalho em Equipe:** Atuei junto aos integrantes do frontend e backend para integrar filtros e garantir que os dados exibidos nos gráficos fossem atualizados corretamente.
+
+- **Comunicação:** Participei de alinhamentos técnicos para discutir melhorias visuais, comportamento dos filtros e ajustes necessários nas funcionalidades da aplicação.
+
+- **Resolução de Problemas:** Corrigi bugs relacionados ao roteamento entre páginas e inconsistências nos filtros dinâmicos utilizados nos dashboards.
+
+- **Organização:** Estruturei componentes e fluxo de navegação da aplicação buscando manter a interface mais intuitiva e padronizada.
+
+- **Planejamento:** Colaborei na definição das melhorias priorizadas para cada sprint, considerando impacto visual e experiência do usuário.
 
 ---
 
@@ -558,12 +575,19 @@ A aplicação também auxilia na validação de classificações fiscais, organi
 
 ## Soft Skills
 
-- **Liderança:** Coordenação das atividades da equipe e acompanhamento do desenvolvimento do projeto.
-- **Organização:** Estruturação do fluxo de trabalho e gerenciamento das tarefas das sprints.
-- **Comunicação:** Alinhamento técnico entre equipe e acompanhamento das entregas.
-- **Tomada de Decisão:** Participação em decisões arquiteturais e definição de soluções técnicas.
-- **Resolução de Problemas:** Correção de falhas e apoio técnico no desenvolvimento da aplicação.
-- **Trabalho em Equipe:** Colaboração contínua com os integrantes durante todas as etapas do projeto.
+- **Liderança:** Atuei como Scrum Master organizando reuniões de acompanhamento, distribuindo atividades da sprint e auxiliando a equipe na resolução de impedimentos técnicos.
+
+- **Tomada de Decisão:** Participei da definição da arquitetura inicial do backend e da escolha de soluções para integração entre API, banco de dados e processamento dos documentos.
+
+- **Comunicação:** Realizei alinhamentos entre frontend e backend para garantir consistência na integração das funcionalidades e no fluxo principal da aplicação.
+
+- **Organização:** Acompanhei o progresso das tarefas da sprint e organizei o fluxo de desenvolvimento para evitar conflitos durante merges e entregas.
+
+- **Resolução de Problemas:** Atuei na correção de falhas relacionadas à comunicação via WebSocket e problemas no fluxo de processamento da aplicação.
+
+- **Trabalho em Equipe:** Colaborei ativamente na revisão de merges e no suporte técnico aos integrantes durante o desenvolvimento das funcionalidades.
+
+- **Proatividade:** Implementei melhorias estruturais no backend e participei da definição de soluções técnicas além das atividades inicialmente atribuídas.
 
 ---
 
