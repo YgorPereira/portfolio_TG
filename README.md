@@ -207,6 +207,8 @@ O gestor do sistema também podia acompanhar o progresso e desempenho dos funcio
 
 ## Demonstração e GitHub:
 
+https://github.com/user-attachments/assets/e52c7a84-ddc5-4ef3-8aa4-51e695777728
+
 **Veja mais no repositório do Github:** [Scrum-Tutor](https://github.com/CodeDontBlow/Scrum-Tutor)
 
 </details>
@@ -323,13 +325,7 @@ A aplicação possibilita o cadastro, consulta, edição e exclusão das informa
 
 ## Demonstração e GitHub
 
-<div align="center">
-
-<video src="./public/videos/doceye_demo.mp4" controls width="800"></video>
-
-</div>
-
-<br>
+https://github.com/user-attachments/assets/58784a39-d3f1-46c6-bc3b-ad044c1006a2
 
 **Veja mais no repositório do GitHub:**  
 [DocEye](https://github.com/CodeDontBlow/DocEye)
@@ -451,13 +447,7 @@ Além disso, o sistema disponibiliza dashboards interativos, filtros por períod
 
 ## Demonstração e GitHub
 
-<div align="center">
-
-<video src="./public/videos/pontolog_demo.mp4" controls width="800"></video>
-
-</div>
-
-<br>
+https://github.com/user-attachments/assets/e2b22427-46ee-4161-b1c7-3aab029a4b98
 
 **Veja mais no repositório do GitHub:**  
 [PontoLog](https://github.com/CodeDontBlow/PontoLog)
@@ -593,14 +583,9 @@ A aplicação também auxilia na validação de classificações fiscais, organi
 
 ## Demonstração e GitHub
 
-<div align="center">
-
-<video src="./public/videos/descriptum_demo.mp4" controls width="800"></video>
-
-</div>
-
 <br>
 
+https://github.com/user-attachments/assets/a162335c-80c7-43bc-a479-6ec686b1d5b3
 
 **Veja mais no repositório do GitHub:**  
 [Descriptum](https://github.com/CodeDontBlow/Tecsys-Descriptum/)
@@ -690,6 +675,8 @@ Atuação como desenvolvedor, com foco principal no backend e na integração en
 - **Adaptabilidade:** Capacidade de ajustar decisões e soluções técnicas diante de mudanças de requisitos e desafios encontrados durante o projeto.
 
 ## Demonstração e GitHub
+
+https://github.com/user-attachments/assets/4f925887-49cf-493b-b6de-7a068db6bac8
 
 **Veja mais no repositório do GitHub:**
 
@@ -785,6 +772,8 @@ Atuação como desenvolvedor, com foco principal no backend e na implementação
 - **Adaptabilidade:** Capacidade de lidar com diferentes tecnologias, regras de negócio e desafios técnicos ao longo do desenvolvimento.
 
 ## Demonstração e GitHub
+
+https://github.com/user-attachments/assets/ac597c35-032d-49b0-9b5d-e6122d2e6d36
 
 **Veja mais no repositório do GitHub:**
 
