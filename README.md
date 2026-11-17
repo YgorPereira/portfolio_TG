@@ -606,3 +606,192 @@ A aplicação também auxilia na validação de classificações fiscais, organi
 [Descriptum](https://github.com/CodeDontBlow/Tecsys-Descriptum/)
 
 </details>
+
+
+
+<details>
+<summary>
+ProDesk - Plataforma de Help Desk Inteligente
+</summary>
+
+<br>
+
+## Apresentação
+
+O projeto foi desenvolvido durante o Sexto semestre do curso de Análise e Desenvolvimento de Sistemas, sob a orientação dos professores Gerson Penha e Ronaldo Emerick, tendo como cliente a empresa Pro4Tech, representada por Rafael Monteiro e Larissa Souza.
+
+## Problema
+
+O cliente identificou dificuldades na triagem e no gerenciamento de chamados técnicos relacionados aos serviços de tecnologia da informação. O processo apresentava escalonamentos informais, falta de controle sobre os responsáveis e o histórico dos atendimentos, além da ausência de métricas para acompanhar o desempenho do suporte.
+
+## Solução
+
+Como solução, a equipe desenvolveu o **ProDesk**, uma plataforma de Help Desk que centraliza o ciclo de atendimento, desde a abertura até a resolução dos chamados.
+
+A aplicação utiliza inteligência artificial para analisar as solicitações e direcioná-las ao setor responsável, além de oferecer mecanismos estruturados de escalonamento entre níveis de suporte. Também disponibiliza um painel administrativo com indicadores e métricas para acompanhamento dos atendimentos e apoio à tomada de decisão.
+
+## Tecnologias Utilizadas
+
+<div align="left">
+
+![NestJS](https://img.shields.io/badge/NestJS-2563EB?style=for-the-badge&logo=nestjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-2563EB?style=for-the-badge&logo=typescript&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-2563EB?style=for-the-badge&logo=react&logoColor=white)
+
+![MongoDB](https://img.shields.io/badge/MongoDB-2563EB?style=for-the-badge&logo=mongodb&logoColor=white)
+![Expo](https://img.shields.io/badge/Expo-2563EB?style=for-the-badge&logo=expo&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-2563EB?style=for-the-badge&logo=swagger&logoColor=white)
+
+![Docker](https://img.shields.io/badge/Docker-2563EB?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-2563EB?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Git](https://img.shields.io/badge/Git-2563EB?style=for-the-badge&logo=git&logoColor=white)
+
+</div>
+
+## Aplicação das Tecnologias
+
+- **NestJS e TypeScript:** Desenvolvimento da API backend, organização dos módulos e implementação das regras de negócio.
+- **MongoDB Atlas:** Persistência e gerenciamento dos dados da aplicação.
+- **React Native e Expo:** Desenvolvimento da aplicação mobile.
+- **Swagger:** Documentação dos endpoints e contratos da API.
+- **Docker:** Containerização e padronização do ambiente de execução.
+- **AWS EC2 e S3:** Infraestrutura de hospedagem e armazenamento.
+- **Git:** Controle de versão e colaboração durante o desenvolvimento.
+
+## Minhas Contribuições
+
+Atuação como desenvolvedor, com foco principal no backend e na integração entre os componentes da solução.
+
+- Modelagem e desenvolvimento dos endpoints e contratos da API.
+- Integração e configuração do MongoDB Atlas.
+- Implementação de funcionalidades e regras de negócio do backend.
+- Documentação dos serviços utilizando Swagger.
+- Containerização da aplicação com Docker.
+- Configuração e implantação do backend em uma instância AWS EC2.
+- Integração entre a API, o aplicativo mobile e o serviço de inteligência artificial.
+- Apoio na integração e validação dos fluxos de atendimento.
+
+## Hard Skills
+
+- **Desenvolvimento Backend:** Construção de APIs REST, organização de módulos e implementação de regras de negócio com NestJS e TypeScript.
+- **Banco de Dados NoSQL:** Modelagem, integração e persistência de dados com MongoDB Atlas.
+- **Integração de Sistemas:** Comunicação entre backend, aplicativo mobile e serviços de inteligência artificial.
+- **Documentação de APIs:** Definição e documentação de endpoints e contratos utilizando Swagger.
+- **Cloud e DevOps:** Containerização com Docker e implantação de aplicações utilizando AWS EC2 e S3.
+- **Controle de Versão:** Utilização de Git para gerenciamento de código e colaboração no desenvolvimento.
+
+## Soft Skills
+
+- **Comunicação e Negociação:** Alinhamento de expectativas com os integrantes da equipe e busca por acordos que conciliassem as necessidades do cliente com as possibilidades técnicas do projeto.
+- **Análise Crítica:** Avaliação dos problemas apresentados pelo cliente, identificação de necessidades e análise de alternativas para definir soluções adequadas.
+- **Trabalho em Equipe:** Colaboração com os integrantes responsáveis pelo frontend, backend e inteligência artificial, contribuindo para a integração dos diferentes componentes.
+- **Proatividade:** Identificação de necessidades técnicas e iniciativa para implementar melhorias e solucionar problemas durante o desenvolvimento.
+- **Resolução de Problemas:** Investigação de falhas de integração e implementação de soluções para garantir o funcionamento dos fluxos da aplicação.
+- **Adaptabilidade:** Capacidade de ajustar decisões e soluções técnicas diante de mudanças de requisitos e desafios encontrados durante o projeto.
+
+## Demonstração e GitHub
+
+**Veja mais no repositório do GitHub:**
+
+[ProDesk](https://github.com/Bug-Busters-F/ProDesk)
+
+</details>
+
+
+
+<details>
+<summary>
+ComissionAI - Plataforma Inteligente para Gestão de Comissões
+</summary>
+
+<br>
+
+## Apresentação
+
+O projeto foi desenvolvido durante o sexto semestre do curso de Análise e Desenvolvimento de Sistemas, sob a orientação dos professores Claudio Lima e Walmir Duque, tendo como cliente a empresa Dom Rock, representada por André F. de Almeida.
+
+## Problema
+
+O cliente identificou problemas no processo manual de apuração de comissões de vendas, realizado por meio de planilhas desconectadas. Esse cenário gerava inconsistências nos cálculos, dificuldades de auditoria e riscos financeiros e trabalhistas.
+
+Entre os principais desafios estavam a atribuição de vendas a colaboradores fora do período de vigência de seus contratos, a falta de rastreabilidade sobre as regras utilizadas nos cálculos e a dificuldade de prever o impacto financeiro de campanhas de incentivo antes de sua implementação.
+
+## Solução
+
+Como solução, a equipe desenvolveu o **ComissionAI**, uma plataforma inteligente para centralizar e automatizar a gestão de comissões de vendas.
+
+O sistema unifica a importação de dados de Recursos Humanos, vendas e taxas de comissão, submetendo essas informações a um processo estruturado de validação e cálculo determinístico. Também utiliza inteligência artificial para interpretar propostas de campanhas em linguagem natural e permitir simulações financeiras com base no histórico de vendas, sem gerar comissões efetivas.
+
+A plataforma ainda oferece mecanismos de rastreabilidade e auditoria, validação temporal dos vínculos contratuais e proteção contra duplicidade de dados, contribuindo para maior segurança, transparência e confiabilidade no processo.
+
+## Tecnologias Utilizadas
+
+<div align="left">
+
+![Java](https://img.shields.io/badge/Java-2563EB?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-2563EB?style=for-the-badge&logo=springboot&logoColor=white)
+![Spring Batch](https://img.shields.io/badge/Spring_Batch-2563EB?style=for-the-badge&logo=spring&logoColor=white)
+
+![Python](https://img.shields.io/badge/Python-2563EB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-2563EB?style=for-the-badge&logo=fastapi&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-2563EB?style=for-the-badge&logo=vuedotjs&logoColor=white)
+
+![JavaScript](https://img.shields.io/badge/JavaScript-2563EB?style=for-the-badge&logo=javascript&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-2563EB?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2563EB?style=for-the-badge&logo=docker&logoColor=white)
+
+</div>
+
+## Aplicação das Tecnologias
+
+- **Java e Spring Boot:** Desenvolvimento dos serviços backend, APIs e regras de negócio da aplicação.
+- **Spring Batch:** Processamento estruturado dos arquivos de RH, vendas e comissões, incluindo etapas de ingestão, validação e persistência dos dados.
+- **Python e FastAPI:** Desenvolvimento do serviço de inteligência artificial responsável pelo processamento e interpretação de propostas em linguagem natural.
+- **Vue.js e JavaScript:** Desenvolvimento da interface frontend e interação com os serviços da aplicação.
+- **PostgreSQL:** Persistência e gerenciamento dos dados de usuários, regras, vendas e resultados dos cálculos.
+- **Docker:** Containerização e padronização dos ambientes de execução.
+
+## Minhas Contribuições
+
+Atuação como desenvolvedor, com foco principal no backend e na implementação dos mecanismos de processamento e segurança da aplicação.
+
+- Desenvolvimento da pipeline de processamento de dados utilizando Spring Batch, desde o recebimento dos arquivos até a validação e inserção das informações no banco de dados.
+- Implementação das etapas de extração, tratamento e validação dos dados importados.
+- Desenvolvimento do sistema de autenticação e gerenciamento de sessões de usuários.
+- Implementação dos mecanismos de controle de acesso e identificação dos usuários responsáveis pelas operações.
+- Desenvolvimento e integração de endpoints para comunicação entre os componentes da aplicação.
+- Participação na definição das regras de processamento e dos fluxos de negócio.
+- Integração entre os serviços backend e os demais componentes do sistema.
+- Correções e melhorias na estrutura e no funcionamento da aplicação.
+
+## Hard Skills
+
+- **Java e Spring Boot:** Desenvolvimento de APIs backend, serviços e implementação de regras de negócio.
+- **Spring Batch:** Construção de pipelines de processamento em lote, com etapas de leitura, processamento, validação e persistência de dados.
+- **Processamento e Validação de Dados:** Implementação de fluxos de ingestão, tratamento de arquivos e validação de informações de diferentes fontes.
+- **Autenticação e Segurança:** Implementação de autenticação, gerenciamento de sessões e controle de acesso a funcionalidades.
+- **Banco de Dados Relacional:** Integração com PostgreSQL e persistência de dados da aplicação.
+- **Integração de Serviços:** Desenvolvimento de APIs e comunicação entre serviços backend e componentes de inteligência artificial.
+- **Arquitetura Backend:** Organização de serviços, definição de contratos e estruturação de fluxos de processamento.
+
+## Soft Skills
+
+- **Análise Crítica:** Compreensão dos problemas operacionais e financeiros apresentados pelo cliente, avaliando impactos e possíveis soluções para os processos de apuração de comissões.
+- **Resolução de Problemas:** Investigação de inconsistências no processamento de dados e desenvolvimento de soluções para garantir a integridade das informações.
+- **Proatividade:** Identificação de necessidades técnicas e iniciativa para implementar melhorias nos mecanismos de processamento e autenticação.
+- **Comunicação e Negociação:** Alinhamento de requisitos e expectativas com a equipe, buscando acordos entre necessidades do cliente, regras de negócio e viabilidade técnica.
+- **Trabalho em Equipe:** Colaboração com os responsáveis pelo frontend e pelo serviço de inteligência artificial para integrar funcionalidades e manter a consistência dos fluxos da aplicação.
+- **Organização:** Estruturação das atividades de desenvolvimento e acompanhamento das entregas, considerando dependências entre funcionalidades e componentes.
+- **Adaptabilidade:** Capacidade de lidar com diferentes tecnologias, regras de negócio e desafios técnicos ao longo do desenvolvimento.
+
+## Demonstração e GitHub
+
+**Veja mais no repositório do GitHub:**
+
+[ComissionAI](https://github.com/Bug-Busters-F/ComissionAI)
+
+</details>
+
+
+
+
